@@ -1,0 +1,16 @@
+node_modules/
+udata/
+.vscode/
+autoblur.js
+auto_blur.js
+config.json
+./autoblur.js
+auto_blur.exe
+test.png
+videos/
+abnode.js
+abserver.js
+.vscode/
+server/save.txt
+autoblur-node-rs/target
+target/
