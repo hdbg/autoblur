@@ -245,7 +245,6 @@ impl Client {
 
         Ok(())
     }
-    #[tracing::instrument(skip(self))]
 
     async fn initialize_collection(
         api: &mut impl BlurAPI,
